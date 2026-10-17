@@ -359,7 +359,6 @@ body {
 
 .tarjeta-1,
 .tarjeta-2,
-.tarjeta-3,
 .tarjeta-4 {
     width: 100%;
     max-width: 600px;
@@ -383,12 +382,11 @@ body {
 
 .foto-perfil img {
     width: 100%;
-    max-width: 300px;
+    max-width: 500px;
     height: auto;
 }
 
 @media screen and (max-width: 768px) {
-
     .tarjeta-1,
     .tarjeta-2,
     .tarjeta-3,
